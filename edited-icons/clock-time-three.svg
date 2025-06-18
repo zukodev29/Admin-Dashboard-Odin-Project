@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="clock-time-three.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="30.666667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1614"
+     inkscape:window-height="981"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M12 2C6.5 2 2 6.5 2 12C2 17.5 6.5 22 12 22C17.5 22 22 17.5 22 12S17.5 2 12 2M17 13H11V7H12.5V11.5H17V13Z"
+     id="path1" />
+  <path
+     style="fill:#f9f9f9;stroke-width:0.0326087"
+     d="M 11.086957,21.942111 C 10.309872,21.869728 9.3282766,21.646514 8.576087,21.37114 7.9995274,21.160064 7.1032643,20.706275 6.5706522,20.355763 4.3108585,18.868596 2.7583088,16.59537 2.2209368,13.986957 1.9597328,12.719069 1.9580714,11.304787 2.2162876,10.029501 2.9183624,6.5620738 5.4702995,3.6791251 8.8532609,2.5316458 10.69263,1.9077432 12.785726,1.8552457 14.673913,2.3856563 c 1.224825,0.3440656 2.573538,1.039973 3.570652,1.8423805 0.364903,0.2936479 0.988712,0.8998843 1.303241,1.2665284 1.325031,1.5445774 2.121606,3.3487983 2.369538,5.3669348 0.0718,0.584443 0.07194,1.691484 2.81e-4,2.274586 -0.365718,2.976063 -1.97605,5.566385 -4.488277,7.219677 -1.334231,0.878056 -2.963591,1.445058 -4.565218,1.588654 -0.432241,0.03875 -1.349142,0.03756 -1.777173,-0.0023 z m 5.918478,-9.697546 v -0.766304 h -2.25 -2.25 v -2.2500001 -2.25 H 11.73913 10.972826 V 9.9945652 13.01087 h 3.016304 3.016305 z"
+     id="path2" />
+</svg>
